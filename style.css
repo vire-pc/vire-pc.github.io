@@ -1,0 +1,29 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background-image: url("header.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: #ebf2fa;
+  text-shadow: 10px
+}
+.btn{
+  border-radius: 300px;
+  padding: 20px;
+}
+hr{
+  font-weight: 5px;
+}
+.tex-center{
+  font-size: 200%;
+}
+P{
+  color: #abff4f ;
+}
+.COL{
+  background-color: BLUE ;
+
+}
